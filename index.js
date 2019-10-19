@@ -21,3 +21,8 @@ function myAnimal (){
   let myAnimal= "dog";
   return myAnimal;
 }
+
+function yourAnimal (){
+  let yourAnimal="cat";
+  return yourAnimal;
+}
